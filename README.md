@@ -44,7 +44,7 @@
 
 ## 📝 I regularly write articles on
 
-- [My Blog](#): (Link to your blog if available)
+- [My Blog](#): (https://medium.com/@ashrafali31018)
 
 ## 📄 Know about my experiences
 
@@ -112,10 +112,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ASHRAFALI-M&theme=radical" alt="GitHub Trophies">
 </p>
-
-## 📝 Latest Blog Posts
-
-https://medium.com/@ashrafali31018
 
 
 Thanks for visiting my profile! Feel free to check out my repositories and reach out if you'd like to collaborate on exciting projects.
