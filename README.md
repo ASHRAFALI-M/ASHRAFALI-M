@@ -34,12 +34,6 @@ I am enthusiastic about collaborating on projects related to AI, ML, and data an
 
 If you have any questions about data science, machine learning, deep learning, or AI, feel free to reach out! I enjoy discussing these topics and sharing knowledge with the community.
 
-
-## 🔭 I’m currently working on
-
-- [Heart Disease Diagnostic Analysis](https://github.com/ASHRAFALI-M/-Machine-Learning-Projects/blob/main/ML_Heart_Disease.ipynb): An in-depth data analysis on heart disease diagnostics.
-- [Stress Detection with Machine Learning](https://github.com/ASHRAFALI-M/-Machine-Learning-Projects/blob/main/ML_Stress%20Deduction%20with%20Machine%20Learning.ipynb): Developing algorithms to detect stress levels using machine learning.
-
 ## 👯 I’m looking to collaborate on
 
 - [AI and Machine Learning Projects](#): Open to collaborating on innovative AI and ML projects that solve real-world problems.
@@ -47,11 +41,6 @@ If you have any questions about data science, machine learning, deep learning, o
 ## 🤝 I’m looking for help with
 
 - [Advanced AI Research](#): Seeking assistance and collaboration on cutting-edge AI research and development.
-
-## 💬 Ask me about
-
-- Data Science, Machine Learning, Deep Learning, and AI.
-
 
 ## 👨‍💻 All of my projects are available at
 
@@ -67,9 +56,9 @@ If you have any questions about data science, machine learning, deep learning, o
 
 ## ⚡ Fun fact
 
-- 😅 I think I am funny.
-- 📚 I'm an avid reader, always looking to explore new genres.
-- 🌍 I love traveling and learning about different cultures.
+When I'm not crunching numbers or developing algorithms, you'll likely find me with a Rubik's Cube in hand. Solving these colorful puzzles not only sharpens my problem-solving skills but also gives me a fresh perspective on tackling complex data challenges. Fun fact: My personal record for solving a Rubik's Cube is just under 4 minutes! This hobby has taught me patience, persistence, and the joy of finding solutions—traits that I bring to every data science project I work on. 🧩🔄✨
+
+
 
 
 ## 🛠 Skills
