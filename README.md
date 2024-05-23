@@ -52,7 +52,10 @@
 
 ## ⚡ Fun fact
 
-- I think I am funny.
+- 😅 I think I am funny.
+- 📚 I'm an avid reader, always looking to explore new genres.
+- 🌍 I love traveling and learning about different cultures.
+
 
 ## 🛠 Skills
 
@@ -112,11 +115,7 @@
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+https://medium.com/@ashrafali31018
 
-## 🗂️ Highlighted Repositories
 
-<!-- REPOSITORY-LIST:START -->
-<!-- REPOSITORY-LIST:END -->
-
+Thanks for visiting my profile! Feel free to check out my repositories and reach out if you'd like to collaborate on exciting projects.
