@@ -13,6 +13,28 @@
   </a>
 </p>
 
+## 🌟 About Me
+
+I am Ashrafali M, a dedicated and passionate Data Scientist from India with a strong foundation in data analytics, machine learning, and AI research. My journey in data science began with a curiosity about how data can be transformed into actionable insights, and it has since evolved into a professional pursuit of building innovative solutions to solve real-world problems.
+
+### 🔭 Current Roles
+
+- **AI Researcher Intern** at [Trio Devs Digital Services](#): In this role, I focus on developing and implementing AI algorithms to enhance digital services and products. My work involves a lot of research, experimentation, and collaboration with other experts in the field.
+- **Data Science Intern** at [Unified Mentor Private Limited](#): Here, I work on various data science projects, ranging from data preprocessing and visualization to building predictive models and deploying them into production.
+
+### 🌱 Learning and Growth
+
+I believe in continuous learning and am always looking to enhance my skills. Currently, I am delving deeper into advanced AI algorithms, machine learning techniques, and deep learning frameworks such as TensorFlow and PyTorch. My goal is to stay at the forefront of technological advancements in the field of AI and data science.
+
+### 👯 Collaboration and Community
+
+I am enthusiastic about collaborating on projects related to AI, ML, and data analytics. Whether it's contributing to open-source projects, engaging in hackathons, or working on innovative startups, I am always open to new opportunities and collaborations.
+
+### 💬 Ask Me About
+
+If you have any questions about data science, machine learning, deep learning, or AI, feel free to reach out! I enjoy discussing these topics and sharing knowledge with the community.
+
+
 ## 🔭 I’m currently working on
 
 - [Heart Disease Diagnostic Analysis](https://github.com/ASHRAFALI-M/-Machine-Learning-Projects/blob/main/ML_Heart_Disease.ipynb): An in-depth data analysis on heart disease diagnostics.
