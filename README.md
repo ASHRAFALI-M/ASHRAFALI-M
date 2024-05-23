@@ -48,10 +48,6 @@ If you have any questions about data science, machine learning, deep learning, o
 
 - [Advanced AI Research](#): Seeking assistance and collaboration on cutting-edge AI research and development.
 
-## 🌱 I’m currently learning
-
-- Advanced frameworks and tools in data science and machine learning, including TensorFlow, PyTorch, and deep learning algorithms.
-
 ## 💬 Ask me about
 
 - Data Science, Machine Learning, Deep Learning, and AI.
