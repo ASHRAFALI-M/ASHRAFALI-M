@@ -1,69 +1,122 @@
-# 👋 Hello, I'm Ashrafali M!
+<h1 align="center">Hi 👋, I'm ASHRAFALI M</h1>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ASHRAFALI-M)](https://github.com/ASHRAFALI-M)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashrafali--m-blue)](https://www.linkedin.com/in/ashrafali-m-769b25246)
-[![GitHub](https://img.shields.io/badge/GitHub-ASHRAFALI--M-black)](https://github.com/ASHRAFALI-M)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashrafali-m-769b25246" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ashrafali--m-blue" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/ASHRAFALI-M" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ASHRAFALI--M-black" alt="GitHub">
+  </a>
+  <a href="mailto:ashrafali31018@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ashrafali31018@gmail.com-red" alt="Email">
+  </a>
+</p>
 
-Welcome to my GitHub profile! I am a dedicated and passionate Data Scientist with a strong foundation in data analytics, machine learning, and AI research. I love turning data into actionable insights and building innovative solutions to real-world problems.
+## 🔭 I’m currently working on
 
-## 🌟 About Me
+- [Heart Disease Diagnostic Analysis](https://github.com/ASHRAFALI-M/-Machine-Learning-Projects/blob/main/ML_Heart_Disease.ipynb): An in-depth data analysis on heart disease diagnostics.
+- [Stress Detection with Machine Learning](https://github.com/ASHRAFALI-M/-Machine-Learning-Projects/blob/main/ML_Stress%20Deduction%20with%20Machine%20Learning.ipynb): Developing algorithms to detect stress levels using machine learning.
 
-- 🔭 I’m currently working as an AI Researcher Intern at Trio Devs Digital Services and as a Data Science Intern at Unified Mentor Private Limited.
-- 🌱 I’m currently enhancing my skills in advanced AI algorithms, machine learning, and deep learning.
-- 👯 I’m looking to collaborate on projects related to AI, ML, and data analytics.
-- 💬 Ask me about data science, machine learning, deep learning, and AI.
-- 📫 How to reach me: [ashrafali31018@gmail.com](mailto:ashrafali31018@gmail.com)
+## 👯 I’m looking to collaborate on
 
-## 🛠️ Skills & Technologies
+- [AI and Machine Learning Projects](#): Open to collaborating on innovative AI and ML projects that solve real-world problems.
 
-- **Languages**: Python, R
-- **Databases**: SQL, MongoDB
-- **Frameworks**: NumPy, Pandas, Matplotlib, Scikit-learn
-- **Tools**: Tableau, PowerBI, MS Office
-- **Specialties**: NLP, Machine Learning, Deep Learning
-- **Platforms**: Jupyter, R Studio, VS Code
-- **OS**: Windows, Linux
-- **Soft Skills**: Communication, Teamwork, Time Management, Presentation Skill
+## 🤝 I’m looking for help with
 
-## 📈 GitHub Stats
+- [Advanced AI Research](#): Seeking assistance and collaboration on cutting-edge AI research and development.
 
-![Ashrafali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ASHRAFALI-M&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ASHRAFALI-M&layout=compact&theme=radical)
+## 🌱 I’m currently learning
 
-## 🔥 Top Projects
+- Advanced frameworks and tools in data science and machine learning, including TensorFlow, PyTorch, and deep learning algorithms.
 
-### [Heart Disease Diagnostic Analysis](https://github.com/ASHRAFALI-M/-Machine-Learning-Projects/blob/main/ML_Heart_Disease.ipynb)
-An in-depth data analysis on heart disease diagnostics. This project explores various features such as age, sex, cholesterol levels, and exercise-induced angina to uncover relationships and predict the presence of heart disease.
+## 💬 Ask me about
 
-### [Stress Detection with Machine Learning](https://github.com/ASHRAFALI-M/-Machine-Learning-Projects/blob/main/ML_Stress%20Deduction%20with%20Machine%20Learning.ipynb)
-Developed algorithms to analyze physiological signals, speech patterns, and behavioral cues to detect stress levels. The trained models classify stress levels accurately, aiding in timely interventions and personalized stress management recommendations.
+- Data Science, Machine Learning, Deep Learning, and AI.
 
-## 📜 Certifications
+## 📫 How to reach me
 
-- **Machine Learning and Image Processing** - ThingQbator (2024)
-- **Advanced Google Analytics** - Google Analytics Academy (2024)
-- **Data Science and Analytics** - HP LIFE (2024)
-- **Introduction to Data Science** - Cisco Networking Academy (2023)
-- **Introduction to Soft Skills** - TCSiON (2023)
-- **Cloud Infrastructure** - Oracle (2023)
+- Email: [ashrafali31018@gmail.com](mailto:ashrafali31018@gmail.com)
 
-## 🎓 Education
+## 👨‍💻 All of my projects are available at
 
-- **Master of Science in Data Science** - Bishop Heber College (CGPA: 8.27)
-- **Bachelor of Science in Computer Science** - Jamal Mohamed College (CGPA: 8.10)
-- **HSC** - Bishop Heber Higher Sec School, Tiruchirapalli (68%)
-- **SSLC** - Bishop Heber Higher Sec School, Tiruchirapalli (84%)
+- [My Portfolio](https://github.com/ASHRAFALI-M?tab=repositories)
 
-## 📫 Let's Connect
+## 📝 I regularly write articles on
 
-- [LinkedIn](https://www.linkedin.com/in/ashrafali-m-769b25246)
-- [GitHub](https://github.com/ASHRAFALI-M)
-- [Email](mailto:ashrafali31018@gmail.com)
+- [My Blog](#): (Link to your blog if available)
 
-## ⚡ Fun Facts
+## 📄 Know about my experiences
 
-- 🎸 I enjoy playing guitar in my free time.
-- 📚 I'm an avid reader, always looking to explore new genres.
-- 🌍 I love traveling and learning about different cultures.
+- [Resume](#): (Link to your resume, if available online)
 
-Thanks for visiting my profile! Feel free to check out my repositories and reach out if you'd like to collaborate on exciting projects.
+## ⚡ Fun fact
+
+- I think I am funny.
+
+## 🛠 Skills
+
+### Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+
+### Data Science and AI
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white)
+
+### Databases
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+### Data Visualization
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=white)
+
+### Development Tools
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![R Studio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ASHRAFALI-M&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHRAFALI-M&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+## 🔗 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ashrafali-m-769b25246" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ashrafali--m-blue" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/ASHRAFALI-M" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ASHRAFALI--M-black" alt="GitHub">
+  </a>
+  <a href="mailto:ashrafali31018@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ashrafali31018@gmail.com-red" alt="Email">
+  </a>
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ASHRAFALI-M&theme=radical" alt="GitHub Trophies">
+</p>
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## 🗂️ Highlighted Repositories
+
+<!-- REPOSITORY-LIST:START -->
+<!-- REPOSITORY-LIST:END -->
+
