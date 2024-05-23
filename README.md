@@ -52,9 +52,6 @@ If you have any questions about data science, machine learning, deep learning, o
 
 - Data Science, Machine Learning, Deep Learning, and AI.
 
-## 📫 How to reach me
-
-- Email: [ashrafali31018@gmail.com](mailto:ashrafali31018@gmail.com)
 
 ## 👨‍💻 All of my projects are available at
 
