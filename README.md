@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ASHRAFALI M</h1>
-<h3 align="center">A passionate Data Science Student from India</h3>
+<h3 align="center">A Passionate Data Science Student from India</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashrafali-m-769b25246" target="_blank">
