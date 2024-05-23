@@ -48,7 +48,7 @@
 
 ## 📄 Know about my experiences
 
-- [Resume](#): (https://drive.google.com/file/d/1vH4_XyEhNU6CyyYI-ni3yIyKF8pbMBb-/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1vH4_XyEhNU6CyyYI-ni3yIyKF8pbMBb-/view?usp=sharing)
 
 ## ⚡ Fun fact
 
