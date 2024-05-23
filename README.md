@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ASHRAFALI M</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Data Science Student from India</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashrafali-m-769b25246" target="_blank">
@@ -15,7 +15,7 @@
 
 ## 🌟 About Me
 
-I am Ashrafali M, a dedicated and passionate Data Scientist from India with a strong foundation in data analytics, machine learning, and AI research. My journey in data science began with a curiosity about how data can be transformed into actionable insights, and it has since evolved into a professional pursuit of building innovative solutions to solve real-world problems.
+I am Ashrafali M, a dedicated and passionate Data Science Student from India with a strong foundation in data analytics, machine learning, and AI research. My journey in data science began with a curiosity about how data can be transformed into actionable insights, and it has since evolved into a professional pursuit of building innovative solutions to solve real-world problems.
 
 ### 🔭 Current Roles
 
