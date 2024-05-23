@@ -44,11 +44,11 @@
 
 ## 📝 I regularly write articles on
 
-- [My Blog](#): (https://medium.com/@ashrafali31018)
+- [My Blog](https://medium.com/@ashrafali31018)
 
 ## 📄 Know about my experiences
 
-- [Resume](#): (Link to your resume, if available online)
+- [Resume](#): (https://drive.google.com/file/d/1vH4_XyEhNU6CyyYI-ni3yIyKF8pbMBb-/view?usp=sharing)
 
 ## ⚡ Fun fact
 
