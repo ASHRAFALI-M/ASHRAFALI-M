@@ -44,7 +44,7 @@ If you have any questions about data science, machine learning, deep learning, o
 
 ## 👨‍💻 All of my projects are available at
 
-- [My Portfolio](https://github.com/ASHRAFALI-M?tab=repositories)
+- [My Portfolio](https://ashrafali-m.github.io/Personal-Portfolio-React/)
 
 ## 📝 I regularly write articles on
 
