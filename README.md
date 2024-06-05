@@ -54,12 +54,6 @@ If you have any questions about data science, machine learning, deep learning, o
 
 - [Resume](https://drive.google.com/file/d/1vH4_XyEhNU6CyyYI-ni3yIyKF8pbMBb-/view?usp=sharing)
 
-## ⚡ Fun fact
-
-When I'm not crunching numbers or developing algorithms, you'll likely find me with a Rubik's Cube in hand. Solving these colorful puzzles not only sharpens my problem-solving skills but also gives me a fresh perspective on tackling complex data challenges. Fun fact: My personal record for solving a Rubik's Cube is just under 4 minutes! This hobby has taught me patience, persistence, and the joy of finding solutions—traits that I bring to every data science project I work on. 🧩🔄✨
-
-
-
 
 ## 🛠 Skills
 
