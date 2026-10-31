@@ -12,7 +12,7 @@
   <a href="mailto:ashrafali31018@gmail.com">
     <img src="https://img.shields.io/badge/Email-ashrafali31018@gmail.com-red?logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://personal-portfolio-react-blue.vercel.app" target="_blank">
+  <a href="https://ashrafali-m.github.io/Personal-Portfolio-React/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green" alt="Portfolio">
   </a>
 </p>
@@ -65,7 +65,7 @@ Building the AI layer of an enterprise real-estate ERP spanning **CRM, Marketing
 * CNN classifier for skin lesion images
 * PCA and t-SNE for feature-space analysis and visualization
 
-> ℹ️ My production work is proprietary, so it isn't on GitHub. See my [portfolio](https://personal-portfolio-react-blue.vercel.app) for architecture case studies.
+> ℹ️ My production work is proprietary, so it isn't on GitHub. See my [portfolio](https://ashrafali-m.github.io/Personal-Portfolio-React/) for architecture case studies.
 
 ---
 
